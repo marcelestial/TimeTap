@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimeTap</string>
+    <string name="action_settings">Saved Times</string>
+</resources>
